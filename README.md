@@ -12,3 +12,5 @@ The main papers we are investigating are
 [Deep learning and multi-omics approach to predict drug responses in cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9703655/#:~:text=There%20are%20mainly%20two%20types,expression%2C%20mutation%2C%20etc)
 
 If you haven't developed in an agile environment (or don't know what that means), ask us. Please check out a working branch before you commit code to it, and please follow agile commit messaging conventions: https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/#:~:text=The%20commit%20type%20can%20include%20the%20following%3A
+
+_Please only push working code and please comment as much as you can_
